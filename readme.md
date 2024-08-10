@@ -40,3 +40,9 @@ created a smart contract
 create a truffle project
 connected to blockchain
 put smart contract to blockchain and talk to it
+
+truffle compile
+
+ truffle migrate --reset
+
+ 
